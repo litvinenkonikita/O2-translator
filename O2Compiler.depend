@@ -1,0 +1,211 @@
+# depslib dependency file v1.0
+1304593913 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\text.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"text.h"
+	"location.h"
+
+1304598116 h"
+
+1304170857 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\text.h
+
+1304431615 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	"pars.h"
+	"text.h"
+	"scan.h"
+	"table.h"
+	"ovm.h"
+	"gen.h"
+
+1297161306 
+
+1298684532 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\parse.h
+
+1297174506 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\location.c
+	<stdlib.h>
+	"location.h"
+
+1297161306 source:c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\location.c
+	<stdlib.h>
+
+1295761161 source:c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parse.h"
+	"text.h"
+
+1295351450 c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\parse.h
+
+1295507011 c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\text.h
+
+1297160841 source:c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\text.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"text.h"
+	"location.h"
+
+1297161378 c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\location.h
+
+1297161992 source:c:\documents and settings\nikita\Мои документы\codeblocks projects\ocompiler\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"location.h"
+	"text.h"
+
+1297166272 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\location.h
+
+1298961132 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"error.h"
+	"location.h"
+	"text.h"
+
+1295951331 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\error.h
+
+1304598116 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\scan.c
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"scan.h"
+	"text.h"
+	"error.h"
+	"location.h"
+
+1304302053 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\scan.h
+
+1304674332 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\pars.c
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	"scan.h"
+	"table.h"
+	"gen.h"
+	"error.h"
+	"ovm.h"
+
+1298712136 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\table.h
+	"scan.h"
+
+1304588398 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\ovm.c
+	<stdio.h>
+	"ovm.h"
+
+1298688729 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\pars.h
+
+1299682108 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\ovm.h
+
+1300193695 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\table.c
+	<stdlib.h>
+	<string.h>
+	"table.h"
+	"scan.h"
+	"error.h"
+
+1302503774 source:c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\gen.c
+	<limits.h>
+	<string.h>
+	<stdlib.h>
+	"scan.h"
+	"table.h"
+	"ovm.h"
+	"error.h"
+
+1300113114 c:\documents and settings\nikita\мои документы\codeblocks projects\ocompiler\gen.h
+	"table.h"
+
+1307365869 source:/home/nikita/CodeBlocks Projects/OCompiler/error.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"error.h"
+	"location.h"
+	"text.h"
+
+1295947731 /home/nikita/CodeBlocks Projects/OCompiler/error.h
+
+1297162672 /home/nikita/CodeBlocks Projects/OCompiler/location.h
+
+1304170857 /home/nikita/CodeBlocks Projects/OCompiler/text.h
+
+1312102521 source:/home/nikita/CodeBlocks Projects/OCompiler/gen.c
+	<limits.h>
+	<string.h>
+	<stdlib.h>
+	"scan.h"
+	"table.h"
+	"ovm.h"
+	"error.h"
+
+1310805871 /home/nikita/CodeBlocks Projects/OCompiler/scan.h
+
+1310809981 /home/nikita/CodeBlocks Projects/OCompiler/table.h
+	"scan.h"
+
+1310810025 /home/nikita/CodeBlocks Projects/OCompiler/ovm.h
+
+1297170906 source:/home/nikita/CodeBlocks Projects/OCompiler/location.c
+	<stdlib.h>
+	"location.h"
+
+1304431615 source:/home/nikita/CodeBlocks Projects/OCompiler/main.c
+	<stdio.h>
+	<stdlib.h>
+	"location.h"
+	"pars.h"
+	"text.h"
+	"scan.h"
+	"table.h"
+	"ovm.h"
+	"gen.h"
+
+1298685129 /home/nikita/CodeBlocks Projects/OCompiler/pars.h
+
+1300109514 /home/nikita/CodeBlocks Projects/OCompiler/gen.h
+	"table.h"
+
+1311684479 source:/home/nikita/CodeBlocks Projects/OCompiler/ovm.c
+	<stdio.h>
+	"ovm.h"
+
+1310808004 source:/home/nikita/CodeBlocks Projects/OCompiler/scan.c
+	<string.h>
+	<ctype.h>
+	<limits.h>
+	"scan.h"
+	"text.h"
+	"error.h"
+	"location.h"
+
+1300190095 source:/home/nikita/CodeBlocks Projects/OCompiler/table.c
+	<stdlib.h>
+	<string.h>
+	"table.h"
+	"scan.h"
+	"error.h"
+
+1311683943 source:/home/nikita/CodeBlocks Projects/OCompiler/text.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"text.h"
+	"location.h"
+
+1311684183 source:/home/nikita/CodeBlocks Projects/OCompiler/pars.c
+	<limits.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"scan.h"
+	"table.h"
+	"gen.h"
+	"error.h"
+	"ovm.h"
+

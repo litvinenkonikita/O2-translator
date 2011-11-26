@@ -1,0 +1,8 @@
+PC = 0,  Cmd = 8
+PC = 1,  Cmd = 1
+PC = 2,  Cmd = -9
+PC = 3,  Cmd = 8
+PC = 4,  Cmd = 2
+PC = 5,  Cmd = -9
+PC = 6,  Cmd = 0
+PC = 7,  Cmd = -1

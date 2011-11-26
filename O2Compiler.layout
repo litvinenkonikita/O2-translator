@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Input.txt" open="1" top="0" tabpos="3">
+		<Cursor position="80" topLine="0" />
+	</File>
+	<File name="Output.txt" open="1" top="0" tabpos="19">
+		<Cursor position="87" topLine="0" />
+	</File>
+	<File name="error.c" open="1" top="0" tabpos="6">
+		<Cursor position="18" topLine="0" />
+	</File>
+	<File name="error.h" open="1" top="0" tabpos="5">
+		<Cursor position="58" topLine="0" />
+	</File>
+	<File name="gen.c" open="1" top="0" tabpos="17">
+		<Cursor position="298" topLine="9" />
+	</File>
+	<File name="gen.h" open="1" top="0" tabpos="18">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="location.c" open="1" top="0" tabpos="8">
+		<Cursor position="276" topLine="0" />
+	</File>
+	<File name="location.h" open="1" top="0" tabpos="7">
+		<Cursor position="16" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="540" topLine="0" />
+	</File>
+	<File name="ovm.c" open="1" top="1" tabpos="15">
+		<Cursor position="3447" topLine="35" />
+	</File>
+	<File name="ovm.h" open="1" top="0" tabpos="14">
+		<Cursor position="504" topLine="0" />
+	</File>
+	<File name="pars.c" open="1" top="0" tabpos="11">
+		<Cursor position="6572" topLine="326" />
+	</File>
+	<File name="pars.h" open="1" top="0" tabpos="16">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="scan.c" open="1" top="0" tabpos="10">
+		<Cursor position="1179" topLine="213" />
+	</File>
+	<File name="scan.h" open="1" top="0" tabpos="9">
+		<Cursor position="785" topLine="0" />
+	</File>
+	<File name="table.c" open="1" top="0" tabpos="13">
+		<Cursor position="793" topLine="0" />
+	</File>
+	<File name="table.h" open="1" top="0" tabpos="12">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="text.c" open="1" top="0" tabpos="2">
+		<Cursor position="722" topLine="31" />
+	</File>
+	<File name="text.h" open="1" top="0" tabpos="4">
+		<Cursor position="113" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
